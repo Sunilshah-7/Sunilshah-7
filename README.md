@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Sunil Shah</h1>
-<h3 align="center">A passionate full stack developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilshah-7&label=Profile%20views&color=0e75b6&style=flat" alt="sunilshah-7" /> </p>
 
