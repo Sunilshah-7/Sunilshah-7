@@ -42,3 +42,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilshah-7&show_icons=true&locale=en" alt="sunilshah-7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilshah-7&" alt="sunilshah-7" /></p>
+
+<a href="https://app.daily.dev/sunil_shah"><img src="https://api.daily.dev/devcards/1232ef5863b249069d407d2a3ca691fc.png?r=tfd" width="400" alt="Sunil Shah's Dev Card"/></a>
+
