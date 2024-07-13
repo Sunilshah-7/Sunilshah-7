@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunilshah-7
 - 👀 I’m interested in ROBOTICS ENGINEER ALONG WITH WEB APP AND MOBILE DEVELOPER
-- 🌱 I’m currently learning JAVASCRIPT AND PYTHON
+- 🌱 I’m currently learning JAVA and RUST.
 - 💞️ I’m looking to collaborate on PROJECTS AND INTERNSHIPS.
 - 📫 How to reach me https://www.facebook.com/knight.shah/
 
