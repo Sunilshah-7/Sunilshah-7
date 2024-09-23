@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sunilshah-7
-- 👀 I’m interested in ROBOTICS ENGINEER ALONG WITH WEB APP AND MOBILE DEVELOPER
+- 🧑‍🎓I'm currently studying Masters in Computer Science at George Washington University, School of Engineering and Applied Sciences.
+- 👀 I have experience in software development across web and mobile applications, robotic engineering, and desktop applications.
 - 🌱 I’m currently learning JAVA and RUST.
 - 💞️ I’m looking to collaborate on PROJECTS AND INTERNSHIPS.
 - 📫 How to reach me https://www.facebook.com/knight.shah/
