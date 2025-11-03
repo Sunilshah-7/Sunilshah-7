@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails** and **Swift**
 
 - 💬 Ask me about **react, next, node, ros,python, arduino**
 
