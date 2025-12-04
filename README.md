@@ -3,7 +3,7 @@
 - I am currently working as Student Ambassador for Open Source Program Office in GWU.
 - 👀 I have experience in software development across web and mobile applications, robotic engineering, and desktop applications.
 - 🌱 I’m currently learning wide range of technologies. If you find something specific interesting about a topic and wanna chat, shoot me an email at sunil.shah@gwu.edu.
-- 💞️ I’m looking to collaborate on PROJECTS AND INTERNSHIPS.
+- 💞️ I’m looking for FULL TIME NEW GRAD JOBS.
 
 
 <!---
