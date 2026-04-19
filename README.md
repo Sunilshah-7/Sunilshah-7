@@ -57,7 +57,10 @@ Open source is where I learned to code — it's only natural that I give back.
 	<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI ML and Data" />
 	<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 	<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
-	<img src="https://img.shields.io/badge/GPT--4o-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o" />
+	<img src="https://img.shields.io/badge/GPT-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+	<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+	<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+	<img src="https://img.shields.io/badge/Gemma-0D1117?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
 	<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
 	<img src="https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 </p>
@@ -79,7 +82,7 @@ Open source is where I learned to code — it's only natural that I give back.
 **DevOps & Infrastructure**
 
 <p>
-	<img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,bash,terraform,kubernetes,aws,azure" alt="DevOps and Infrastructure" />
+	<img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,bash,aws,azure" alt="DevOps and Infrastructure" />
 </p>
 
 **Design & Tooling**
