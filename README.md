@@ -40,25 +40,53 @@ Open source is where I learned to code — it's only natural that I give back.
 ## 🛠️ Skills & Technologies
 
 **Languages**
-`Python` `TypeScript` `JavaScript` `C++` `Dart` `Ruby` `PHP` `SQL` `Bash`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,rust,php,bash" alt="Languages" />
+</p>
 
 **Web & Frameworks**
-`React` `Next.js` `Node.js` `Express` `NestJS` `Vue` `Nuxt.js` `Gatsby` `Django` `Ruby on Rails` `Flutter` `React Native`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,vue,nuxtjs,gatsby,django,rails,flutter" alt="Web and Frameworks" />
+</p>
 
 **AI / ML / Data**
-`LangChain` `ChromaDB` `GPT-4o` `TensorFlow` `PyTorch` `OpenCV` `scikit-learn` `pandas`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI ML and Data" />
+	<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+	<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+	<img src="https://img.shields.io/badge/GPT--4o-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o" />
+	<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+	<img src="https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+</p>
 
 **Robotics**
-`ROS (Robot Operating System)` `YDLiDAR` `Arduino`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=ros,arduino" alt="Robotics" />
+	<img src="https://img.shields.io/badge/YDLiDAR-0D1117?style=for-the-badge&logoColor=white" alt="YDLiDAR" />
+</p>
 
 **Databases & Backend**
-`PostgreSQL` `MongoDB` `MySQL` `SQLite` `MS SQL Server` `Firebase` `Supabase`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase" alt="Databases and Backend" />
+	<img src="https://img.shields.io/badge/MS%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="MS SQL Server" />
+</p>
 
 **DevOps & Infrastructure**
-`Git` `GitHub Actions` `Docker` `Linux` `Bash scripting` `CI/CD pipelines` `Infrastructure-as-Code`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,bash,terraform,kubernetes,aws,azure" alt="DevOps and Infrastructure" />
+</p>
 
 **Design & Tooling**
-`Figma` `Postman` `Webpack` `Babel` `GraphQL` `Electron`
+
+<p>
+	<img src="https://skillicons.dev/icons?i=figma,postman,webpack,babel,graphql,electron" alt="Design and Tooling" />
+</p>
 
 ---
 
