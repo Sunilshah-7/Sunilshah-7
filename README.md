@@ -1,6 +1,6 @@
 # Hey, I'm Sunil Shah 👋
 
-> *Software engineer, open source advocate, and lifelong tinkerer — from soldering circuits in Nepal to building AI systems in Washington, DC.*
+> _Software engineer, open source advocate, and lifelong tinkerer — from soldering circuits in Nepal to building AI systems in Washington, DC._
 
 I taught myself electronics and programming from scratch using free internet resources, Stack Overflow, Reddit, and YouTube. That experience shaped how I think about technology: as something that should be open, learnable, and community-driven. I now channel that belief into my work as a **Student Ambassador at GWU's Open Source Program Office** and as a contributor to projects that span robotics, AI, infrastructure, and the open web.
 
@@ -8,7 +8,7 @@ I taught myself electronics and programming from scratch using free internet res
 
 ## 🎓 Currently
 
-- **MS in Computer Science** — George Washington University, SEAS (GPA: 3.7, graduating May 2026)
+- **MS in Computer Science** — George Washington University, SEAS ( graduating May 2026)
 - **Student Ambassador** — GWU Open Source Program Office (OSPO), advocating for open source culture across campus and beyond
 - **Actively seeking full-time new grad software engineering roles** — especially in infrastructure, systems, and AI-adjacent engineering
 
@@ -16,9 +16,10 @@ I taught myself electronics and programming from scratch using free internet res
 
 ## 🔨 What I'm Working On
 
-- **Life Insurance RAG Chatbot** — A retrieval-augmented generation system for insurance domain Q&A, built with Next.js, FastAPI, ChromaDB, LangChain, and GPT-4o
+- **Life Insurance RAG Chatbot** — A retrieval-augmented generation system for insurance domain Q&A, built with Next.js, Rust, ChromaDB and Gemma
 - **Cover Letter Generator** — A TypeScript tool that auto-generates tailored cover letters from a resume + job description using the Gemini API ([repo](https://github.com/Sunilshah-7/Cover-letter-generator))
 - **Agentic Tutor** - A simple web tool that extracts important details from long, tedious youtube videos and summarizes it, makes Q&A's, actively helps you learn using Youtube API transcription and Whispr speech-to-text conversion system
+- **Admin Dashboard** - A dashboard powered by React and Django to present visualization in graphs and trends for the kind of data you have
 - Sharpening systems programming skills in **memory management, concurrency, virtual memory, and Rust** in preparation for infrastructure engineering roles
 
 ---
@@ -27,12 +28,12 @@ I taught myself electronics and programming from scratch using free internet res
 
 Open source is where I learned to code — it's only natural that I give back.
 
-| Project | Organization | Contribution |
-|---|---|---|
-| [UNSDG Classifier Tool](https://github.com/chaoss/UNSDG-classifier-tool) | **CHAOSS** | Built a UN Sustainable Development Goals text classifier; featured in GW Open Source conference lightning talk |
-| [GW Civic Learning Site](https://github.com/GW-Civic-Learning/gw-civic-learning.github.io) | **GWU Nashman Center** | Contributed to the civic engagement and learning platform for George Washington University |
-| [Student Outreach Strategy Pattern](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md) | **CURIOSS** | Authored a community pattern on student outreach strategy for university and research OSPOs |
-| [GW OSPO](https://github.com/gw-ospo) | **GWU OSPO** | Active contributor and ambassador; supporting open source education and community programs |
+| Project                                                                                                                    | Organization           | Contribution                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [UNSDG Classifier Tool](https://github.com/chaoss/UNSDG-classifier-tool)                                                   | **CHAOSS**             | Built a UN Sustainable Development Goals text classifier; featured in GW Open Source conference lightning talk |
+| [GW Civic Learning Site](https://github.com/GW-Civic-Learning/gw-civic-learning.github.io)                                 | **GWU Nashman Center** | Contributed to the civic engagement and learning platform for George Washington University                     |
+| [Student Outreach Strategy Pattern](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md) | **CURIOSS**            | Authored a community pattern on student outreach strategy for university and research OSPOs                    |
+| [GW OSPO](https://github.com/gw-ospo)                                                                                      | **GWU OSPO**           | Active contributor and ambassador; supporting open source education and community programs                     |
 
 ---
 
@@ -57,30 +58,45 @@ Open source is where I learned to code — it's only natural that I give back.
 `Git` `GitHub Actions` `Docker` `Linux` `Bash scripting` `CI/CD pipelines` `Infrastructure-as-Code`
 
 **Design & Tooling**
-`Figma` `Postman` `Webpack` `Babel` `GraphQL` `Electron` 
+`Figma` `Postman` `Webpack` `Babel` `GraphQL` `Electron`
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🤖 Blind Spot Detection with LiDAR + ROS
+
 Real-time blind spot alerting system using YDLiDAR sensor data and ROS middleware in C++. Built as part of my robotics engineering work.
 [→ View repo](https://github.com/Sunilshah-7/ydlidar_ros)
 
 ### ✍️ Cover Letter Generator
+
 TypeScript tool that takes your resume and a job description and uses the Gemini API to produce a tailored cover letter — because the process should be faster.
 [→ View repo](https://github.com/Sunilshah-7/Cover-letter-generator)
 
 ### 🧠 CHAOSS UNSDG Classifier
+
 Open source NLP classifier that tags text against the 17 UN Sustainable Development Goals. Contributed to the CHAOSS community and presented as a case study in an open source conference lightning talk.
 [→ View repo](https://github.com/chaoss/UNSDG-classifier-tool)
-
 
 ---
 
 ## 🏆 GitHub Achievements
 
 🦈 Pull Shark ×3 &nbsp;|&nbsp; 👥 Pair Extraordinaire &nbsp;|&nbsp; 🎯 YOLO &nbsp;|&nbsp; ⚡ Quickdraw &nbsp;|&nbsp; 🧊 Arctic Code Vault Contributor
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunilshah-7&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Sunil's GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilshah-7&layout=compact&langs_count=8&hide_border=true" alt="Sunil's most used languages" />
+</p>
+
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=Sunilshah-7&hide_border=true" alt="Sunil's GitHub streak" />
+</p>
 
 ---
 
@@ -105,4 +121,4 @@ I'm always happy to talk about technologies, open source, robotics, or anything 
 
 ---
 
-*"The best way to learn is to build something real for someone who needs it."*
+_"The best way to learn is to build something real for someone who needs it."_
