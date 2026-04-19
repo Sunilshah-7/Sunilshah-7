@@ -90,12 +90,12 @@ Open source NLP classifier that tags text against the 17 UN Sustainable Developm
 ## 📊 GitHub Metrics
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunilshah-7&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Sunil's GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilshah-7&layout=compact&langs_count=8&hide_border=true" alt="Sunil's most used languages" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunilshah-7&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Sunil's GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilshah-7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Sunil's most used languages" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=Sunilshah-7&hide_border=true" alt="Sunil's GitHub streak" />
+	<img src="https://streak-stats.demolab.com?user=Sunilshah-7&hide_border=true&theme=tokyonight&background=0D1117" alt="Sunil's GitHub streak" />
 </p>
 
 ---
