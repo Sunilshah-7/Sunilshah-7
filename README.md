@@ -172,11 +172,10 @@ Open source NLP classifier that tags text against the 17 UN Sustainable Developm
 I'm always happy to talk about technologies, open source, robotics, or anything in between.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-shah-4b1512176)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilshah2416@gmail.com)
 [![GWU Email](https://img.shields.io/badge/GWU-sunil.shah@gwu.edu-004990?style=flat)](mailto:sunil.shah@gwu.edu)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sunil-shah)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sunilshah-7)
-
+[![Handshake](https://img.shields.io/badge/Handshake-F26D21?style=flat)](https://app.joinhandshake.com/profiles/sgjb6n)
 ---
 
 _"The best way to learn is to build something real for someone who needs it."_
