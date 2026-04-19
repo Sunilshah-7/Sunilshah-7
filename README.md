@@ -16,11 +16,35 @@ I taught myself electronics and programming from scratch using free internet res
 
 ## 🔨 What I'm Working On
 
-- **Life Insurance RAG Chatbot** — A retrieval-augmented generation system for insurance domain Q&A, built with Next.js, Rust, ChromaDB and Gemma
-- **Cover Letter Generator** — A TypeScript tool that auto-generates tailored cover letters from a resume + job description using the Gemini API ([repo](https://github.com/Sunilshah-7/Cover-letter-generator))
-- **Agentic Tutor** - A simple web tool that extracts important details from long, tedious youtube videos and summarizes it, makes Q&A's, actively helps you learn using Youtube API transcription and Whispr speech-to-text conversion system
-- **Admin Dashboard** - A dashboard powered by React and Django to present visualization in graphs and trends for the kind of data you have
-- Sharpening systems programming skills in **memory management, concurrency, virtual memory, and Rust** in preparation for infrastructure engineering roles
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<strong>Life Insurance RAG Chatbot</strong><br/>
+			<img src="insurance-agent-graphics.png" alt="Life Insurance RAG Chatbot" width="100%" /><br/>
+			A retrieval-augmented generation system for insurance domain Q&amp;A, built with Next.js, Rust, ChromaDB, and Gemma.
+		</td>
+		<td width="50%" valign="top">
+			<strong>Cover Letter Generator</strong><br/>
+			<img src="cover-letter-generator.png" alt="Cover Letter Generator" width="100%" /><br/>
+			A TypeScript tool that auto-generates tailored cover letters from a resume and job description using the Gemini API.
+			<a href="https://github.com/Sunilshah-7/Cover-letter-generator">View repo</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<strong>Agentic Tutor</strong><br/>
+			<img src="video-summary-generator.png" alt="Agentic Tutor" width="100%" /><br/>
+			A web tool that extracts key details from long YouTube videos, summarizes them, generates Q&amp;A, and helps with active learning using YouTube transcript APIs and Whisper speech-to-text.
+		</td>
+		<td width="50%" valign="top">
+			<strong>Admin Dashboard</strong><br/>
+			<img src="admin-dashboard.png" alt="Admin Dashboard" width="100%" /><br/>
+			A dashboard powered by React and Django to visualize trends and insights from your data.
+		</td>
+	</tr>
+</table>
+
+Also, I am sharpening systems programming skills in **memory management, concurrency, virtual memory, and Rust** in preparation for infrastructure engineering roles
 
 ---
 
