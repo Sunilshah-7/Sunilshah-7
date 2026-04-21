@@ -179,3 +179,5 @@ I'm always happy to talk about technologies, open source, robotics, or anything 
 ---
 
 _"The best way to learn is to build something real for someone who needs it."_
+
+
