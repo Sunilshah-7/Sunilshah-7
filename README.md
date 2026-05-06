@@ -158,6 +158,8 @@ Open source NLP classifier that tags text against the 17 UN Sustainable Developm
 
 ---
 
+
+
 ## ⚡ Fun Facts
 
 - I started learning electronics and programming entirely through free internet resources — no formal training until university
