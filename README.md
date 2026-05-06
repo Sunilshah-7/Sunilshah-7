@@ -1,6 +1,6 @@
 # Hey, I'm Sunil Shah 👋
 
-> _Software engineer, open source advocate, and lifelong tinkerer — from soldering circuits in Nepal to building AI systems in Washington, DC._
+> _Software engineer, open source developer, experimentalist and lifelong tinkerer — from soldering circuits in Nepal to building AI systems in Washington, DC._
 
 I taught myself electronics and programming from scratch using free internet resources, Stack Overflow, Reddit, and YouTube. That experience shaped how I think about technology: as something that should be open, learnable, and community-driven. I now channel that belief into my work as a **Student Ambassador at GWU's Open Source Program Office** and as a contributor to projects that span robotics, AI, infrastructure, and the open web.
 
