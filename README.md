@@ -42,7 +42,7 @@ I taught myself electronics and programming from scratch using free internet res
 			<strong>Admin Dashboard</strong><br/>
 			<img src="admin-dashboard.png" alt="Admin Dashboard" width="100%" /><br/>
 			A React and Django dashboard that visualizes trends, metrics, and operational insights from your data.
-            <a href="https://github.com/Sunilshah-7/admin-dashboard">View repo</a>
+            <a href="https://github.com/Sunilshah-7/Order-Management-Dashboard">View repo</a>
 		</td>
 	</tr>
 </table>
