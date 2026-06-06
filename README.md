@@ -19,31 +19,33 @@ I taught myself electronics and programming from scratch using free internet res
 <table>
 	<tr>
 		<td width="50%" valign="top">
+			<strong>Observability Tool for Infrastructure</strong><br/>
+			<img src="imd ai.png" alt="Infrastructure Dashboard" width="100%" /><br/>
+			An enterprise dashboard for operating an AI platform and models the day-to-day workflows platform teams need.
+            <a href="https://github.com/Sunilshah-7/Infrastructure-management-dashboard">View repo</a>
+		</td>
+		<td width="50%" valign="top">
 			<strong>Life Insurance RAG Chatbot</strong><br/>
 			<img src="insurance-agent-graphics.png" alt="Life Insurance RAG Chatbot" width="100%" /><br/>
 			A domain-focused RAG assistant for life insurance Q&amp;A, built with Next.js, Rust, ChromaDB, and Gemma.
             <a href="https://github.com/Sunilshah-7/Insurance-RAG-Agent">View repo</a>
 		</td>
-		<td width="50%" valign="top">
+		
+	</tr>
+	<tr>
+	<td width="50%" valign="top">
 			<strong>Cover Letter Generator</strong><br/>
 			<img src="cover-letter-generator.png" alt="Cover Letter Generator" width="100%" /><br/>
 			A TypeScript app that generates tailored cover letters from a resume and job description using the Gemini API.
 			<a href="https://github.com/Sunilshah-7/Cover-letter-generator">View repo</a>
 		</td>
-	</tr>
-	<tr>
 		<td width="50%" valign="top">
 			<strong>Agentic Tutor</strong><br/>
 			<img src="video-summary-generator.png" alt="Agentic Tutor" width="100%" /><br/>
 			A learning assistant that summarizes long YouTube videos and generates Q&amp;A using transcripts and Whisper.
             <a href="https://github.com/Sunilshah-7/Agentic-Tutor">View repo</a>
 		</td>
-		<td width="50%" valign="top">
-			<strong>Admin Dashboard</strong><br/>
-			<img src="admin-dashboard.png" alt="Admin Dashboard" width="100%" /><br/>
-			A React and Django dashboard that visualizes trends, metrics, and operational insights from your data.
-            <a href="https://github.com/Sunilshah-7/Order-Management-Dashboard">View repo</a>
-		</td>
+		
 	</tr>
 </table>
 
