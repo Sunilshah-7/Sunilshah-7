@@ -38,7 +38,6 @@ I taught myself electronics and programming from scratch using free internet res
 			A domain-focused RAG assistant for life insurance Q&amp;A, built with Next.js, Rust, ChromaDB, and Gemma.
             <a href="https://github.com/Sunilshah-7/Insurance-RAG-Agent">View repo</a>
 		</td>
-		
 		<td width="50%" valign="top">
 			<strong>Agentic Tutor</strong><br/>
 			<img src="video-summary-generator.png" alt="Agentic Tutor" width="100%" /><br/>
