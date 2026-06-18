@@ -10,7 +10,7 @@ I taught myself electronics and programming from scratch using free internet res
 
 - **MS in Computer Science** — George Washington University, SEAS ( graduating May 2026)
 - **Student Ambassador** — GWU Open Source Program Office (OSPO), advocating for open source culture across campus and beyond
-- **Actively seeking full-time new grad software engineering roles** — especially in infrastructure, systems, and AI-adjacent engineering
+- **Actively seeking full-time software engineering and ai engineering roles** — especially in infrastructure, systems, and AI-adjacent engineering
 
 ---
 
