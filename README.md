@@ -25,10 +25,10 @@ I taught myself electronics and programming from scratch using free internet res
             <a href="https://github.com/Sunilshah-7/Infrastructure-management-dashboard">View repo</a>
 		</td>
 		<td width="50%" valign="top">
-				<strong>Cover Letter Generator</strong><br/>
-				<img src="cover-letter-generator.png" alt="Cover Letter Generator" width="100%" /><br/>
-				A TypeScript app that generates tailored cover letters from a resume and job description using the Gemini API.
-				<a href="https://github.com/Sunilshah-7/Cover-letter-generator">View repo</a>
+				<strong>Finance Context Agent</strong><br/>
+				<img src="fincontext.png" alt="Finance Agent" width="100%" /><br/>
+				A production-oriented financial research application that turns filings and evidence into citation-grounded portfolio context.
+				<a href="https://github.com/Sunilshah-7/Finance-Context-Agent">View repo</a>
 		</td>
 	</tr>
 	<tr>
