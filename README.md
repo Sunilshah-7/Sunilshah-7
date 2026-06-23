@@ -39,18 +39,24 @@ I taught myself electronics and programming from scratch using free internet res
             <a href="https://github.com/Sunilshah-7/Insurance-RAG-Agent">View repo</a>
 		</td>
 		<td width="50%" valign="top">
+			<strong>Real Time Collaborative Notebook using Cloudflare Workers</strong><br/>
+			<img src="collaborative-notebook.png" alt="Real Time Collaborative Notebook using Cloudflare Workers" width="100%" /><br/>
+			A collaborative notebook built with Cloudflare Workers for real-time, edge-powered editing and synchronization.
+			<a href="https://github.com/Sunilshah-7/cloudflare-edge-course/tree/master/capstone-exercise">View repo</a>
+		</td>
+	</tr>
+	<tr>
+		<td  width="50%" valign="top">
 			<strong>Agentic Tutor</strong><br/>
 			<img src="video-summary-generator.png" alt="Agentic Tutor" width="100%" /><br/>
 			A learning assistant that summarizes long YouTube videos and generates Q&amp;A using transcripts and Whisper.
 	        <a href="https://github.com/Sunilshah-7/Agentic-Tutor">View repo</a>
 		</td>
-	</tr>
-	<tr>
-		<td colspan="2" valign="top">
-			<strong>Real Time Collaborative Notebook using Cloudflare Workers</strong><br/>
-			<img src="collaborative-notebook.png" alt="Real Time Collaborative Notebook using Cloudflare Workers" width="100%" /><br/>
-			A collaborative notebook built with Cloudflare Workers for real-time, edge-powered editing and synchronization.
-			<a href="https://github.com/Sunilshah-7/cloudflare-edge-course/tree/master/capstone-exercise">View repo</a>
+		<td  width="50%" valign="top">
+			<strong>Order Management Admin Dashboard</strong><br/>
+			<img src="omd.png" alt="Order Management Admin Dashboard" width="100%" /><br/>
+			An admin dashboard for managing orders, designed to streamline operational workflows and tracking.
+			<a href="https://github.com/Sunilshah-7/Order-Management-Dashboard">View repo</a>
 		</td>
 	</tr>
 </table>
