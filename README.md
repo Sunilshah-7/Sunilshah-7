@@ -45,6 +45,14 @@ I taught myself electronics and programming from scratch using free internet res
 	        <a href="https://github.com/Sunilshah-7/Agentic-Tutor">View repo</a>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="2" valign="top">
+			<strong>Real Time Collaborative Notebook using Cloudflare Workers</strong><br/>
+			<img src="collaborative-notebook.png" alt="Real Time Collaborative Notebook using Cloudflare Workers" width="100%" /><br/>
+			A collaborative notebook built with Cloudflare Workers for real-time, edge-powered editing and synchronization.
+			<a href="https://github.com/Sunilshah-7/cloudflare-edge-course/tree/master/capstone-exercise">View repo</a>
+		</td>
+	</tr>
 </table>
 
 Also, I am sharpening systems programming skills in **memory management, concurrency, virtual memory, and Rust** in preparation for infrastructure engineering roles
@@ -143,10 +151,7 @@ Open source NLP classifier that tags text against the 17 UN Sustainable Developm
 
 🦈 Pull Shark ×3 &nbsp;|&nbsp; 👥 Pair Extraordinaire &nbsp;|&nbsp; 🎯 YOLO &nbsp;|&nbsp; ⚡ Quickdraw &nbsp;|&nbsp; 🧊 Arctic Code Vault Contributor
 
-
 ---
-
-
 
 ## ⚡ Fun Facts
 
@@ -166,8 +171,7 @@ I'm always happy to talk about technologies, open source, robotics, or anything 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sunil-shah)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sunilshah-7)
 [![Handshake](https://img.shields.io/badge/Handshake-F26D21?style=flat)](https://app.joinhandshake.com/profiles/sgjb6n)
+
 ---
 
 _"The best way to learn is to build something real for someone who needs it."_
-
-
